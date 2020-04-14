@@ -1,0 +1,316 @@
+,X,ID,SEQUENCE_NUM,ACT_NAME,INICIO_PLAN,FIN_PLAN,TYPE_NAME,UNIDAD,PRIORIDAD,RESPONSABLE_ACTIVIDAD,ESTADO_ACTIVIDAD,VALOR_ACTIVIDAD,PROGRESO_ACTIVIDAD,PORCENTAJE_ACTIVIDAD,PROGRAMA_PREVENCION,PLAN_ID,PLAN_NAME,PLAN_YEAR,PLAN_TYPE_NAME,PLAN_STATUS,PROGRAM_NAME,PRIORIDAD_ACTIVIDAD,ASOCIADO_A,PROGRAMA,Y
+0,"
+				",98825,C-0421-2020,Verificar el impacto de las medidas en el resultado de los analisis de confiabilidad.,9/21/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Abdon Estibenson Uribe Taborda,No Iniciada,0,0,0,C. Programa de Confiabilidad y Calidad en Mantenimiento,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,C. Programa de Confiabilidad y Calidad en Mantenimiento,Alta,Plan de acción,PREVENCION,"
+			"
+1,"
+				",98826,H-0422-2020,"Verificar el impacto de las campañas a través de un comparativo, de los pesos identificados en las caminatas. De igual forma, analizar si es necesario, modificar el foco de las campañas FOD (según los focos generadores del FOD).",1/1/2020,6/20/2020,Plan Accion,CACOM-5,Alta,Abdon Estibenson Uribe Taborda,No Iniciada,0,0,0,H. Programa de Prevención de Accidentes  por F.O.D.,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,H. Programa de Prevención de Accidentes  por F.O.D.,Alta,Plan de acción,PREVENCION,"
+			"
+2,"
+				",98827,H-0423-2020,"Verificar el impacto de las campañas a través de un comparativo, de los pesos identificados en las caminatas. De igual forma, analizar si es necesario, modificar el foco de las campañas FOD (según los focos generadores del FOD).",6/21/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Abdon Estibenson Uribe Taborda,No Iniciada,0,0,0,H. Programa de Prevención de Accidentes  por F.O.D.,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,H. Programa de Prevención de Accidentes  por F.O.D.,Alta,Plan de acción,PREVENCION,"
+			"
+3,"
+				",98828,L-0424-2020,Realizar una revisión de los formatos de supervisión de vuelos con el fin de verificar aspectos relaciondos con el CRM.,1/1/2020,6/20/2020,Plan Accion,CACOM-5,Alta,Ricardo Augusto Ortiz Ramírez,No Iniciada,0,0,0,L. Programa de Prevención de Accidentes por CRM - MRM,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,L. Programa de Prevención de Accidentes por CRM - MRM,Alta,Plan de acción,PREVENCION,"
+			"
+4,"
+				",98833,L-0429-2020,Realizar un balance de los aspectos mas importantes a desarrollar como resultado de los analisis de los formatos de supervisión,6/21/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Ricardo Augusto Ortiz Ramírez,No Iniciada,0,0,0,L. Programa de Prevención de Accidentes por CRM - MRM,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,L. Programa de Prevención de Accidentes por CRM - MRM,Alta,Plan de acción,PREVENCION,"
+			"
+5,"
+				",98831,S-0427-2020,"Realizar una auditoría al Escuadrón ART, con el fin de verificar el contenido y cumplimiento de la reuniones de escuadrón.",1/1/2020,6/20/2020,Plan Accion,CACOM-5,Alta,Andres Felipe Bello Zapata,No Iniciada,0,0,0,S. Programa de Auditorías en Seguridad Aerea,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,S. Programa de Auditorías en Seguridad Aerea,Alta,Plan de acción,PREVENCION,"
+			"
+6,"
+				",98832,S-0428-2020,Verificar el cumplimiento de los planes de acción generados a raíz de la auditoría reaizada en el primer semestre,6/21/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Andres Felipe Bello Zapata,No Iniciada,0,0,0,S. Programa de Auditorías en Seguridad Aerea,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,S. Programa de Auditorías en Seguridad Aerea,Alta,Plan de acción,PREVENCION,"
+			"
+7,"
+				",98834,M-0430-2020,"A través de los diferentes escenarios (Reunion de tripulantes, reunion de escuadrón, clases GRUEA, etc) reforzar el concepto de AIRMANSHIP, con el fin de mitigar el riesgo CFIT a través de un proceso de formación íntegro en los tripulantes, fortalecimiento aspectos de conocimiento, disciplina, siguimiento de procedimientos, entre otros.",1/1/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Ricardo Augusto Ortiz Ramírez,No Iniciada,0,0,0,M. Programa de Prevención de Accidentes por CFIT- ALAR,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,M. Programa de Prevención de Accidentes por CFIT- ALAR,Alta,Plan de acción,PREVENCION,"
+			"
+8,"
+				",98835,C-0431-2020,"Realizar una inspección en la cual se verifiquen los reportes del SAP, que no se encuentren debidamente diligenciados (Sistema / Subsistema / Componente), e implementar campañas académicas para recordar al personal la importancia de un correcto diligenciamiento del sistema.",1/1/2020,3/20/2020,Plan Accion,CACOM-5,Alta,Abdon Estibenson Uribe Taborda,Cumplida,100,100,100,C. Programa de Confiabilidad y Calidad en Mantenimiento,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,C. Programa de Confiabilidad y Calidad en Mantenimiento,Alta,Plan de acción,PREVENCION,"
+			"
+9,"
+				",98836,C-0432-2020,"Verificar el efecto del plan de capacitación en el personal, mediante un comparativo entre las novedades de reportes efectuados en el sistema SAP.",3/21/2020,6/20/2020,Plan Accion,CACOM-5,Alta,Abdon Estibenson Uribe Taborda,No Iniciada,0,0,0,C. Programa de Confiabilidad y Calidad en Mantenimiento,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,C. Programa de Confiabilidad y Calidad en Mantenimiento,Alta,Plan de acción,PREVENCION,"
+			"
+10,"
+				",98837,C-0433-2020,"Realizar una inspección en la cual se verifiquen los reportes del SAP, que no se encuentren debidamente diligenciados (Sistema / Subsistema / Componente), e implementar medidas sancionatorias al personal que presente novedades con el mismo.",6/21/2020,9/20/2020,Plan Accion,CACOM-5,Alta,Abdon Estibenson Uribe Taborda,No Iniciada,0,0,0,C. Programa de Confiabilidad y Calidad en Mantenimiento,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,C. Programa de Confiabilidad y Calidad en Mantenimiento,Alta,Plan de acción,PREVENCION,"
+			"
+11,"
+				",101213,A-0718-2020,"EN REFERENCIA AL SAO 20200107SRV0012SA, SE RECOMIENDA EN EL PRIMER SEMESTRE REALIZAR UN ANALISIS DE LA CANTIDAD DE EVENTOS PRESENTADOS POR ESTE MOTIVO",1/7/2020,6/30/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,SRV,PREVENCION,"
+			"
+12,"
+				",98864,A-0460-2020,Realizar un análisis de las factores mas influyentes en la gestión del riesgo en las operaciones aéreas con la información de las tarjetas de riesgo del primer semestre.,1/1/2020,6/20/2020,Plan Accion,CACOM-5,Alta,Juan Guillermo Castro Basante,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,Plan de acción,PREVENCION,"
+			"
+13,"
+				",98865,A-0461-2020,"Realizar un análisis de las factores mas influyentes en la gestión del riesgo en las operaciones aéreas con la información de las tarjetas de riesgo del segundo semestre, y realizar un comparativo con lo evidenciado en el semestre anterior",6/21/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Juan Guillermo Castro Basante,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,Plan de acción,PREVENCION,"
+			"
+14,"
+				",98866,G-0462-2020,"Dictar una capacitación al personal de tripulantes, despachadores, etc., sobre Mercancías Peligrosas.",1/1/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Juan Guillermo Castro Basante,No Iniciada,0,0,0,G. Programa de Prevención de Accidentes  en el Transporte de Mercancias Peligrosas,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,G. Programa de Prevención de Accidentes  en el Transporte de Mercancias Peligrosas,Alta,Plan de acción,PREVENCION,"
+			"
+15,"
+				",98867,N-0463-2020,"Realizar reunión con empresas privadas de turismo aéreo, parapentes, gremios de aeronaves remotamente tripuladas y autoridades de aviación (Aerocivil), con el fin de estandarizar procedimientos.y generar acuerdos para la seguridad en la operación aérea",1/1/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Juan Guillermo Castro Basante,No Iniciada,0,0,0,N. Programa de Prevención de Accidentes por MACA,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,N. Programa de Prevención de Accidentes por MACA,Alta,Plan de acción,PREVENCION,"
+			"
+16,"
+				",98868,N-0464-2020,Capacitación  al personal de tripulantes sobre el diligenciamiento del formato AIRPROX de manera obligatoria en la ocurrencia de los eventos MACA y la teoría del LEVEL BUST,1/1/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Juan Guillermo Castro Basante,No Iniciada,0,0,0,N. Programa de Prevención de Accidentes por MACA,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,N. Programa de Prevención de Accidentes por MACA,Alta,Plan de acción,PREVENCION,"
+			"
+17,"
+				",98869,O-0465-2020,"Realizar una auditoráa de los puntos de operación del ART, verificando aspectos relacionados con seguimiento de procedimientos, mantenimiento, mapa y panorama de riesgos",1/1/2020,6/20/2020,Plan Accion,CACOM-5,Alta,Juan Guillermo Castro Basante,No Iniciada,0,0,0,O. Programa de Prevención de Accidentes para Sistemas de Aeronaves No Tripuladas,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,O. Programa de Prevención de Accidentes para Sistemas de Aeronaves No Tripuladas,Alta,Plan de acción,PREVENCION,"
+			"
+18,"
+				",98870,O-0466-2020,Verificar el cumplimiento de los planes de acción generados a raíz de la auditoría reaizada en el primer semestre,6/21/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Juan Guillermo Castro Basante,No Iniciada,0,0,0,O. Programa de Prevención de Accidentes para Sistemas de Aeronaves No Tripuladas,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,O. Programa de Prevención de Accidentes para Sistemas de Aeronaves No Tripuladas,Alta,Plan de acción,PREVENCION,"
+			"
+19,"
+				",100322,A-0646-2020,"El DESOP CACOM-5 solicitará la gestión y solución a las entidades responsables de la iluminación de la torre, con el objeto de que ubiquen luces que permitan identificar eficazmente la posición de la antena durante las aproximaciones NVG al batallón RIFLES en CAUCASIA",1/1/2020,7/31/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,Plan de acción,PREVENCION,"
+			"
+20,"
+				",101414,E-0837-2020,"En referencia al análisis de fiabilidad 2019, producto de los hallazgos evidenciados dentro de las investigaciones de EVESO, adelantadas por la Subdirección de Investigación de Seguridad Operacional, que buscan mejorar los niveles aceptables de Seguridad para las tripulaciones, teniendo en cuenta que durante las investigaciones adelantadas, se evidenciaron falencias en la capacidad del personal de pilotos para identificar y realizar la correcta toma decisiones durante la aparición de condiciones meteorológicas imprevistas (CMI), en el desarrollo de misiones bajo reglas de vuelo visual (VFR).
+
+El Grupo de Educación aeronáutica junto con los estandarizadores de los equipos de la Unidad deberán actualizar las normas y procedimientos establecidos en los Manuales de Tareas y MTTP, para ejecutar misiones bajo reglas de vuelo visual (VFR) incluyendo los mínimos meteorológicos para su cumplimiento (de acuerdo al AIP Colombia) y la obligatoriedad de reportar condiciones meteorológicas imprevistas (CMI) a través del sistema de reporte obligatorio SAO. En dichas publicaciones se debe indicar explícitamente a los pilotos y tripulantes, que volar intencionalmente en condiciones meteorológicas instrumentos IMC bajo reglas de vuelo visual VFR se convierte en una VIOLACIÓN a las normas de vuelo y de Seguridad Operacional.",1/1/2020,5/29/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,E. Programa de Prevención de Accidentes en Entrenamiento de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,E. Programa de Prevención de Accidentes en Entrenamiento de Vuelo,Alta,Plan de acción,PREVENCION,"
+			"
+21,"
+				",101363,B-0804-2020,"La Oficina de Comportamiento Humano (OFCOH), realizará una entrevista a la tripulación del evento, esto con fin de evidenciar que pudo llevar a la tripulación a cometer el error mencionado en el SAO, y así buscar evitar que se presente este evento nuevamente.",1/21/2020,3/31/2020,Plan Accion,CACOM-5,Alta,Javier Jimenez Gaona,Cumplida,100,100,100,"B. Programa de Prevención de Accidentes por Factores Hunamos, Medicina y Psicologia de Aviación",48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,"B. Programa de Prevención de Accidentes por Factores Hunamos, Medicina y Psicologia de Aviación",Alta,SRV,PREVENCION,"
+			"
+22,"
+				",101463,A-0880-2020,"En relación al SRV 20200206SRV0103SA, el DESOP CACOM-5 a través del ASO del Grupo Técnico, verificará la viabilidad de que las botellas de oxígeno puedan ir guardadas en un recipiente que la proteja contra impactos de proyectiles, y de igual manera sea seguro su transporte en caso de presentarse una desperesurización de la misma.",2/12/2020,4/30/2020,Plan Accion,CACOM-5,Alta,Abdon Estibenson Uribe Taborda,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,SRV,PREVENCION,"
+			"
+23,"
+				",101462,A-0879-2020,"En relación al SRV 20200210SRV0120SA el DESOP CACOM5 a través del ASO del Grupo Técnico realizara el pedido de los elementos faltantes para poder continuar con la modernización de la aviónica de los UH-60, y de igual manera dejar claro el cronograma para el cumplimiento de de este trabajo en el año 2020.",2/12/2020,4/30/2020,Plan Accion,CACOM-5,Alta,Abdon Estibenson Uribe Taborda,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,SRV,PREVENCION,"
+			"
+24,"
+				",100972,H-0697-2020,"H-1317-2019 TENIENDO EN CUENTA QUE EL LANZAMIENTO DE GLOBOS HACE PARTE DE LAS TRADICIONES ARRAIGADAS A LA POBLACION DEL ORIENTE ANTIOQUEÑO DURANTE LA EPOCA NAVIDEÑA, Y QUE ESTA TEMPORADA DEL AÑO HA FINALIZADO, SE DEBERA REALIZAR UNA REUNION  CON LOS ENTES DE REGULACIONES CIVILES PARA DIALOGAR ESTE TIPO DE EVENTOS Y  PREVENIR QUE SE VUELVAN A MATERIALIZAR EN  LA PROXIMA TEMPORADA NAVIDEÑA.",1/1/2020,2/29/2020,Plan Accion,CACOM-5,Alta,Juan Guillermo Castro Basante,Cumplida,100,100,100,H. Programa de Prevención de Accidentes  por F.O.D.,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,H. Programa de Prevención de Accidentes  por F.O.D.,Alta,Plan de acción,PREVENCION,"
+			"
+25,"
+				",101214,A-0719-2020,"EN REFERENCIA AL SAO 20200107SRV0013SA, SE RECOMIENDA REALIZAR UN ANALISIS EN EL PRIMER SEMESTRE DEL AÑO, CON EL FIN DE IDENTIFICAR QUE TAN COMUN ES ESTA NOVEDAD",1/7/2020,6/30/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,SRV,PREVENCION,"
+			"
+26,"
+				",101398,E-0836-2020,"En referencia al análisis de fiabilidad 2019, producto de los hallazgos evidenciados dentro de las investigaciones de EVESO, adelantadas por la Subdirección de Investigación de Seguridad Operacional, que buscan mejorar los niveles aceptables de Seguridad para las tripulaciones, teniendo en cuenta que durante las investigaciones adelantadas, se evidenciaron falencias en la capacidad del personal de pilotos para identificar y realizar la correcta toma decisiones durante la aparición de condiciones meteorológicas imprevistas (CMI), en el desarrollo de misiones bajo reglas de vuelo visual (VFR).
+El Grupo de Educación aeronáutica deberá; en coordinación con el ESNAV de la Unidad y los Pilotos Estandarizadores, preparar y realizar capacitación a todos y cada uno de los pilotos y técnicos tripulantes de la Unidad, en relación al cumplimiento de lo establecido en el AIP COLOMBIA, ENR 1.2-1 del 15 AUG 19, REGLAS DE VUELO VISUAL, MÍNIMOS VMC EN VUELO (condiciones meteorológicas de vuelo visual) y conocimiento de la clasificación de los espacios aéreos, requisitos de obligatorio cumplimiento dentro de cada clase de espacio aéreo, zonas de control, regiones de información de vuelo y áreas de control del CTR de BOG. Lo anterior Con el fin de recordar a los pilotos cuáles son los servicios de tránsito aéreo proporcionados según cada clasificación de espacio aéreo, cuáles son las atribuciones en la gestión de éste y la diferencia entre un servicio de control y un servicio de información. (Esta capacitación se debe realizar las veces que sea requerido, para garantizar el alcance a todos los integrantes de los equipos que por novedades operativas o administrativas no puedan asistir a la programación inicial).",1/1/2020,6/26/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,E. Programa de Prevención de Accidentes en Entrenamiento de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,E. Programa de Prevención de Accidentes en Entrenamiento de Vuelo,Alta,Plan de acción,PREVENCION,"
+			"
+27,"
+				",101278,U-0752-2020,Informe trimestral de Bomberos I Trimestre,1/1/2020,4/4/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,Cumplida,100,100,100,U. Plan de Acción de Unidades,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,U. Plan de Acción de Unidades,Alta,Plan de acción,PREVENCION,"
+			"
+28,"
+				",101284,U-0753-2020,Informe trimestral de Bomberos II Trimestre,4/1/2020,7/4/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,U. Plan de Acción de Unidades,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,U. Plan de Acción de Unidades,Alta,Plan de acción,PREVENCION,"
+			"
+29,"
+				",101235,B-0732-2020,"A través del Modelo HFACS identificar trimestralmente las principales causas en la ocurrencia de eventos de seguridad no deseados, con el propósito de realizar alertas tempranas sobre aspectos de intervención inmediata y que permita adicionalmente retroalimentar los programas de prevención.",1/1/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,"B. Programa de Prevención de Accidentes por Factores Hunamos, Medicina y Psicologia de Aviación",48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,"B. Programa de Prevención de Accidentes por Factores Hunamos, Medicina y Psicologia de Aviación",Alta,Plan de acción,PREVENCION,"
+			"
+30,"
+				",101292,U-0754-2020,Informe trimestral de Bomberos III Trimestre,7/1/2020,10/3/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,U. Plan de Acción de Unidades,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,U. Plan de Acción de Unidades,Alta,Plan de acción,PREVENCION,"
+			"
+31,"
+				",101300,U-0755-2020,Informe trimestral de Bomberos IV Trimestre,10/1/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,U. Plan de Acción de Unidades,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,U. Plan de Acción de Unidades,Alta,Plan de acción,PREVENCION,"
+			"
+32,"
+				",101338,A-0779-2020,"El DESOP CACOM-5 oficiará a la unidad logística para que verifique el MEL de la aeronave, con el objeto de que cumpla con los requisitos del MASTER MEL. En vista a que el MEL de l ainstitución permite volar indefinidamente con la falla del sensor de combustible y el MASTER MEL solo permite 3.",1/16/2020,2/29/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,Cumplida,100,100,100,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,SRV,PREVENCION,"
+			"
+33,"
+				",101246,B-0733-2020,"Presentar y desarrollar una propuesta de investigación que permita la generación de doctrina y conocimiento nuevo que aporte al área de Factores Humanos desde la perspectiva de la operación de la Fuerza Aérea.
+I trimestre: Descripción del objeto de estudio, objetivos, justificación y planteamiento del problema
+II trimestre: Marco teórico,   y avances recolección de la información (de acuerdo a metodología establecida
+III trimestre: Avances análisis de la información
+IV trimestre: Entrega de los resultados obtenidos",1/1/2020,12/15/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,"B. Programa de Prevención de Accidentes por Factores Hunamos, Medicina y Psicologia de Aviación",48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,"B. Programa de Prevención de Accidentes por Factores Hunamos, Medicina y Psicologia de Aviación",Alta,Plan de acción,PREVENCION,"
+			"
+34,"
+				",101563,A-0964-2020,"En referencia a el EVESO TIPO NOPER No 00027-2020 de fecha 21 de enero del 2020, aeronave FAC 6078, relacionado con la fractura del plano derecho de la aeronave, se recomienda:
+
+El Comando Aéreo de Combate N°5, por medio del Grupo de Combate, efectuará un análisis del entorno operacional del BLART-SATURNO, de manera trimestral, teniendo en cuenta factores como el viento, lluvia, nubosidad y demás condiciones meteorológicas que puedan afectar la operación segura de las aeronaves SCAN EAGLE, que operan en Caucasia. De esta manera, se podrán establecer ventanas de operación con datos reales y actualizados, lo cual contribuye con la prevención de eventos operacionales de este tipo.",3/2/2020,4/30/2020,Plan Accion,CACOM-5,Alta,Juan Guillermo Castro Basante,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,EVESA,PREVENCION,"
+			"
+35,"
+				",101215,A-0720-2020,EN REFERENCIA AL SAO 20200107SRV0011SA SE RECOMIENDA REALIZAR UN ANALISIS EN EL PRIMER SEMESTRE CON EL FIN DE IDENTIFICAR QUE TAN REPETITIVA ES ESTA CONDICION,1/7/2020,6/30/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,SRV,PREVENCION,"
+			"
+36,"
+				",101225,Q-0730-2020,"SEGUN EL SRV 20200110SRV0028SA, Y DE ACUERDO AL ANALISIS REALIZADO EN EL DESOP, SE LOGRA IDENTIFICAR QUE ACTUALMENTE LA BARRERA PARA MITIGAR EL RIESGO EXISTE, AL EXISTIR UNA LISTA DE CHEQUEO DE PREVUELO, QUE ADEMAS DE PERMITIR IDENTIFICAR NOVEDADES DE MANTENIMIENTO, PERMITE IDENTIFICAR FOD, COMBUSTIBLE CONTAMINADO, ENTRE OTROS. ADICIONAL EL DEPARTAMENTO DESARROLLO UNA ALERTA DE SEGURIDAD REFERENTE A EL TEMA DE NIDOS, POR LO TANTO, SE RECOMIENDA RECORDAR AL PERSONAL DE TRIPULANTES LA IMPORTANCIA DE LA PREVUELO Y RECORDAR LO QUE SE MENCIONA EN LA ALERTA DE SEGURIDAD REFERENTE AL FOD EN EL BATALLON RIFLES POR NIDOS.",1/10/2020,1/31/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,Cumplida,100,100,100,Q. Programa de Reporte de Riesgos Operacionales IRO,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,Q. Programa de Reporte de Riesgos Operacionales IRO,Alta,SRV,PREVENCION,"
+			"
+37,"
+				",101464,A-0881-2020,"En relación al SRV 20200206SRV0104SA el DESOP CACOM5 a través del ASO del Grupo Técnico realizara el pedido de los elementos faltantes para poder continuar con la modernización de la aviónica de los UH-60, y de igual manera dejar claro el cronograma para el cumplimiento de de este trabajo en el año 2020.",2/12/2020,4/30/2020,Plan Accion,CACOM-5,Alta,Abdon Estibenson Uribe Taborda,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,SRV,PREVENCION,"
+			"
+38,"
+				",101480,A-0897-2020,"En referencia a el EVESO TIPO EVOT No 00027-2020 de fecha 16 de enero del 2020, aeronave FAC 4008, relacionado con la fisura del Windshield:
+
+El Comando Aéreo de Combate N°5, por medio del Departamento de seguridad Operacional, deberá solicitar al Batallón de Movilidad y Maniobra N°7, la implementación de procedimientos operacionales, con el fin de evitar que eventos de este tipo se vuelvan a presentar. Así mismo, estos procedimientos deberán ser informados al CACOM-5, con el fin de que sean de conocimiento para todas las tripulaciones de helicóptero de la Fuerza Aérea Colombiana",2/15/2020,6/30/2020,Plan Accion,CACOM-5,Alta,Andres Felipe Bello Zapata,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,EVESA,PREVENCION,"
+			"
+39,"
+				",101626,C-1010-2020,"En referencia a el EVESO TIPO NOPER No 00009-2020 de fecha 07 de enero del 2020, aeronave FAC 4135, relacionado con Falla del Modo Automático del Estabilizador horizontal, se recomienda:
+
+El Comando Aéreo de Combate N°5, por medio del Grupo Técnico, deberá realizar una sensibilización a todo el personal de pilotos y tripulantes de vuelo, la cual este enfocada en la importancia de hacer las anotaciones de mantenimiento cuando se presenten fallas en los diferentes sistemas de las aeronaves, lo anterior con el fin de mejorar la supervisión por parte del área de confiabilidad y calidad del mantenimiento.",3/16/2020,6/30/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,C. Programa de Confiabilidad y Calidad en Mantenimiento,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,C. Programa de Confiabilidad y Calidad en Mantenimiento,Alta,EVESA,PREVENCION,"
+			"
+40,"
+				",101507,H-0924-2020,"En relación al SRV 20200214SRV0130SA, el cuál habla del FOD en la zona de lavado, el DESOP cacom5 através del ASO  del Grupo Técnico, realizará una consientización del personal de tripulantes de vuelo para evitar que dejen objetos extraños que pudiesen ocasionar daños a una aeronave.",2/21/2020,3/31/2020,Plan Accion,CACOM-5,Alta,Abdon Estibenson Uribe Taborda,Cumplida,100,100,100,H. Programa de Prevención de Accidentes  por F.O.D.,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,H. Programa de Prevención de Accidentes  por F.O.D.,Alta,SRV,PREVENCION,"
+			"
+41,"
+				",101508,I-0925-2020,"En referencia asl SRV 20200214SRV0132SA, el DESOP CACOM5 realizará una inspección aleratoria con el fin de verificar que el personal que opera equipo ETAA tenga vigente su permiso.",2/21/2020,3/31/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,Cumplida,100,100,100,I. Programa de Prevención de Accidentes en Tierra GAP,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,I. Programa de Prevención de Accidentes en Tierra GAP,Alta,SRV,PREVENCION,"
+			"
+42,"
+				",101627,C-1011-2020,"En referencia a el EVESO TIPO NOPER No 00009-2020 de fecha 07 de enero del 2020, aeronave FAC 4135, relacionado con Falla del Modo Automático del Estabilizador horizontal, se recomienda:
+
+El Comando Aéreo de Combate N°5, por medio del Grupo Técnico, deberá establecer una revisión preventiva con el equipo “Ux Validator Test Set AFCS”, durante las inspecciónes de 360 hrs, con el fin de lograr identificar novedades con los amplificadores de la flota de UH-60L, antes de que se lleguen a presentar las fallas.",3/16/2020,12/31/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,C. Programa de Confiabilidad y Calidad en Mantenimiento,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,C. Programa de Confiabilidad y Calidad en Mantenimiento,Alta,EVESA,PREVENCION,"
+			"
+43,"
+				",101697,B-1040-2020,EFECTUAR ANÁLISIS DE LOS EVENTOS DE SEGURIDAD OPERACIONAL POR FACTORES HUMANOS DEL I TRIMESTRE,1/1/2020,4/3/2020,Plan Accion,CACOM-5,Alta,Javier Jimenez Gaona,Cumplida,100,100,100,"B. Programa de Prevención de Accidentes por Factores Hunamos, Medicina y Psicologia de Aviación",48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,"B. Programa de Prevención de Accidentes por Factores Hunamos, Medicina y Psicologia de Aviación",Alta,Plan de acción,PREVENCION,"
+			"
+44,"
+				",101753,I-1073-2020,"En relación al SAO 20200330SRV0260SA, el ASO del grupo Técnico realizará una verificación a las camas bajas del GRUTE 52, teniendo como objetivo serciorarse si estos equipo cuentan con un dispositivo de frenado, en caso de ser negativo, el ASO del GRUTE realizará las coordinaciones necesarias para emitir la normatividad apropiada para este peligro. Por ejemplo; Ninguna cama baja debe estar sin ningun equipo de arrastre o tractor, etc",3/30/2020,4/30/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,I. Programa de Prevención de Accidentes en Tierra GAP,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,I. Programa de Prevención de Accidentes en Tierra GAP,Alta,SRV,PREVENCION,"
+			"
+45,"
+				",101750,N-1070-2020,"En relación al SRV 20200325SRV0246SA, el DESOP CACOM-5 oficiará a la oficina de la UAEAC de medellín con el fin de dar a conocer el evento y tomar medidas que mitiguen este peligro. De igual manera se realizará la socialización al personal de tripulantes de la unidad, con el fin de que se eleve la alerta situacional durante la operación aérea.",3/30/2020,4/30/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,N. Programa de Prevención de Accidentes por MACA,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,N. Programa de Prevención de Accidentes por MACA,Alta,SRV,PREVENCION,"
+			"
+46,"
+				",101751,A-1071-2020,"EN REFERENCIA AL SAO 20200325SRV0245SA, SE RECOMIENDA REALIZAR UN ANALISIS EN EL PRIMER SEMESTRE DEL AÑO, CON EL FIN DE IDENTIFICAR QUE TAN COMUN ES ESTA NOVEDAD, LO ANTERIOR CON EL FIN DE IDENTIFICAR NECESIDADES LOSGÍSTICAS PARA EL CUMPLIMIENTO DE LAS OPERACIONES AÉREAS EN LAS ZONAS DE MONTAÑA",3/30/2020,6/30/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,SRV,PREVENCION,"
+			"
+47,"
+				",101752,A-1072-2020,"En relación al SRV 20200325SRV0244SA, el cúal habla de la imposibilidad de tener una comunicación directa con la OIA del CACOM-5, el ASO del Grupo de Combate estudiará la posibilidad de realizar la gestión de un celular para tener información meteorológica de primera mano de los servicios de la unidad.",3/30/2020,4/30/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,A. Programa de Prevención en Operaciones de Vuelo,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,A. Programa de Prevención en Operaciones de Vuelo,Alta,SRV,PREVENCION,"
+			"
+48,"
+				",101756,S-1076-2020,En referencia al SRV 20200331SRV0273SA el DESOP CACOM5 realizará una verificación de que los conmandantes de GRUPO y Jefes de Dependencia estén autorizando el descanso de las tripulaciones y de igual manera que el personal de tripulantes disponibles lo esten cumpliendo la normatividad a cabalidad.,3/31/2020,5/31/2020,Plan Accion,CACOM-5,Alta,Victor Alfonso Lopez Salguero,No Iniciada,0,0,0,S. Programa de Auditorías en Seguridad Aerea,48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,S. Programa de Auditorías en Seguridad Aerea,Alta,SRV,PREVENCION,"
+			"
+49,"
+				",101684,B-1039-2020,EFECTUAR ANÁLISIS DE LOS EVENTOS DE SEGURIDAD OPERACIONAL POR FACTORES HUMANOS DEL III TRIMESTRE,7/1/2020,9/20/2020,Plan Accion,CACOM-5,Alta,Javier Jimenez Gaona,No Iniciada,0,0,0,"B. Programa de Prevención de Accidentes por Factores Hunamos, Medicina y Psicologia de Aviación",48,Plan de Acción DESOP 2020,2020,DESAES,No Legalizado,"B. Programa de Prevención de Accidentes por Factores Hunamos, Medicina y Psicologia de Aviación",Alta,Plan de acción,PREVENCION,"
+			"
+50,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+51,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+52,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+53,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+54,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+55,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+56,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+57,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+58,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+59,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+60,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+61,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+62,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+63,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+64,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+65,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+66,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+67,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+68,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+69,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+70,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+71,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+72,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+73,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+74,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+75,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+76,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+77,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+78,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+79,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+80,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+81,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+82,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+83,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+84,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+85,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+86,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+87,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+88,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+89,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+90,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+91,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+92,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+93,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+94,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+95,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+96,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+97,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+98,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
+99,"
+				","
+			",,,,,,,,,,,,,,,,,,,,,,,
